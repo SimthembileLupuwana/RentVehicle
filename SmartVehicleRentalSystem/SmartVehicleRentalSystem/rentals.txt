@@ -1,0 +1,6 @@
+Customer: safd | Type: Car | Reg: asfd | Days: 21 | Total Cost: R5707.0
+Customer: asfdadad t qwteq | Type: Car | Reg:  werqq rwerqwerwerqwe | Days: 2341324 | Total Cost: R2.8894281618E10
+Customer: gdx | Type: Car | Reg: gsdzxv | Days: 1 | Total Cost: R24.0
+Customer: hg | Type: Car | Reg: wysda | Days: 2 | Total Cost: R806.0
+Customer: fjd. m, | Type: Car | Reg: ufjkvc | Days: 1 | Total Cost: R2477.0
+Customer: fkj | Type: Car | Reg: jkgd | Days: 12 | Total Cost: R189.0
